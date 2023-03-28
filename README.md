@@ -1,5 +1,5 @@
 
-In today's project we have created a React js Portfolio to display our github repositories in order to build a clear and quick connection to the employers showing them a little bit of our work through all this project where we're able to show the projects we have implemented and coded during our learning proccess.
+In today's project we have created a React js Portfolio to display our github repositories in order to build a clear and quick connection to the employers showing them a little bit of our work through all this project where we're able to show the projects we already have implemented and coded during our learning proccess.
  The project is fully responsive able to adapt to any screen size, desktop or mobile and at the end the final result was really cool. I hope you enjoy!
 
 
