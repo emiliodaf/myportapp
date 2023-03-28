@@ -1,3 +1,29 @@
+
+In today's project we have created a React js Portfolio to display our github repositories in order to build a clear and quick connection to the employers showing them a little bit of our work through all this project where we're able to show the projects we have implemented and coded during our learning proccess.
+ The project is fully responsive able to adapt to any screen size, desktop or mobile and at the end the final result was really cool. I hope you enjoy!
+
+
+
+
+![myportapp-ezgif com-gif-maker](https://user-images.githubusercontent.com/85713266/228323256-c44cc562-8b33-4b2d-90ad-aa0acb1bd2bf.gif)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
